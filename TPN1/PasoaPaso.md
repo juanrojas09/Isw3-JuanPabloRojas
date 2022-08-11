@@ -3,41 +3,56 @@
 • Utilizar herramientas de control de configuración de software
 • Familiarizarse con los comandos más utilizados
 • Configurar el repositorio principal de cada alumno para la materia
+
 2- Unidad temática que incluye este trabajo práctico
 Este trabajo práctico corresponde a la unidad Nº: 1
+
 3- Consignas a desarrollar en el trabajo práctico:
-• Los ejercicios representan casos concretos y rutinarios en uso de este tipo
-de herramientas
+• Los ejercicios representan casos concretos y rutinarios en uso de este tipo de herramientas
+
 • En los puntos donde corresponda, proveer los comandos de git necesarios
 para llevar a cabo el punto.
-• Cuando se especifique alguna descripción, realizarlo de la manera más clara
-posible y con ejemplos cuando sea necesario.
+
+• Cuando se especifique alguna descripción, realizarlo de la manera más clara posible y con ejemplos cuando sea necesario.
+
 4- Desarrollo:
 
 #1- Instalar Git ✔️
 Los pasos y referencias asumen el uso del sistema operativo Windows, en caso
 otros SO seguir recomendaciones específicas.
+
 • Bajar e instalar el cliente git. Por ejemplo, desde https://git-scm.com/
-• Bajar e instalar un cliente visual. Por ejemplo, TortoiseGit para Windows o
-SourceTree para Windows/MAC:
+
+• Bajar e instalar un cliente visual. Por ejemplo, TortoiseGit para Windows 
+
+o SourceTree para Windows/MAC:
+
 o https://tortoisegit.org/
+
 o https://www.sourcetreeapp.com/
+
 o Lista completa: https://git-scm.com/downloads/guis/
 
 #2- Crear un repositorio local y agregar archivos✔️
+
 • Crear un repositorio local en un nuevo directorio.\00
+
 • Agregar un archivo Readme.md, agregar algunas líneas con texto a dicho
 archivo.
+
 • Crear un commit y proveer un mensaje descriptivo.
 
 #3- Crear un repositorio remoto✔️
+
 • Crear una cuenta en https://github.com
+
 • Crear un nuevo repositorio en dicha página (vacío)
+
 • Asociar el repositorio local creado en el punto 2 al creado en github.
+
 • Subir los cambios locales a github.
 
-#4- Familiarizarse con el concepto de Pull Request
-Para algunos de los puntos proveer imágenes.
+#4- Familiarizarse con el concepto de Pull Request Para algunos de los puntos proveer imágenes.
 
 #Explicar que es una pull request.✔️
 
