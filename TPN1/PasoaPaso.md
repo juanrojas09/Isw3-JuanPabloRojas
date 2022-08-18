@@ -57,11 +57,11 @@ archivo.
 #Explicar que es una pull request.✔️
 
 Una pull request es una solicitud que se hace para pedir la incorporacion de cambios al repo original desde una branch, lo que se realizo fue crear una nueva rama, como se ven en las imagenes, me paro en ella, esta suele ser la rama dev o de pruebas, luego pushear a ella que esta vinculada a la master o main, se hace una pull request, donde se revisa y se hacen comentarios y si todo esta correcto se incorpora el cambio a la rama master.
-![](/Imagenes%20ejercicios/1.jpeg)
-![](/Imagenes%20ejercicios/2.jpeg)
-![](/Imagenes%20ejercicios/3.jpeg)
-![](/Imagenes%20ejercicios/4.jpeg)
-![](/Imagenes%20ejercicios/5.jpeg)
+![](/TPN1/Imagenes%20ejercicios/1.jpeg)
+![](/TPN1/Imagenes%20ejercicios/2.jpeg)
+![](/TPN1/Imagenes%20ejercicios/3.jpeg)
+![](/TPN1/Imagenes%20ejercicios/4.jpeg)
+![](/TPN1/Imagenes%20ejercicios/5.jpeg)
 
 • Crear un branch local y agregar cambios a dicho branch.
 
@@ -107,18 +107,18 @@ o Pushear el cambio mergeado.
 #Mi paso a paso
 
 - Clono mi repo en una segunda carpeta
-  ![](/Imagenes%20ejercicios/5.1.jpeg)
+  ![](/TPN1/Imagenes%20ejercicios/5.1.jpeg)
 - En el clon inicial, realice una modificacion en el readme, hice un commit y push
 - Luego en el segundo directorio intente hacer push de lo que tenia y me salto el siguiente error
-  ![](/Imagenes%20ejercicios/5.2.jpeg)
+  ![](/TPN1/Imagenes%20ejercicios/5.2.jpeg)
 - Luego intente realizar un pull, para ver cual era la inconsistencia entre las dos versiones
-  ![](/Imagenes%20ejercicios/5.3.jpeg)
+  ![](/TPN1/Imagenes%20ejercicios/5.3.jpeg)
 - cuando hice el pull me genero ese conflicto del merge que estabamos buscando por lo que en el editor de codigo ya me marcaba en rojo como es que lo tenia antes y en verde el cambio realizado de forma local, por lo que lo volvi a cambiar para que me deje realizar el push, desde el segundo directorio.
-  ![](/Imagenes%20ejercicios/5.4.jpeg)
+  ![](/TPN1/Imagenes%20ejercicios/5.4.jpeg)
 - Aca se puede observar que ya los cambios quedaron consistentes y se puede realizar el commit y push o realizar nuevas modificaciones, esto genera que en un equipo de desarrollo todos partan de la misma base o version que se hizo commit y no hayan conflictos de merge.
-  ![](/Imagenes%20ejercicios/5.5.jpeg)
+  ![](/TPN1/Imagenes%20ejercicios/5.5.jpeg)
 - Como ya se corrigio el cambio si quiero hacer un push, esto es lo que me devuelve por consola que es lo que me tiene que devolver.
-  ![](/Imagenes%20ejercicios/5.6.jpeg)
+  ![](/TPN1/Imagenes%20ejercicios/5.6.jpeg)
 
 6- Algunos ejercicios online
 • Entrar a la página https://learngitbranching.js.org/
@@ -127,7 +127,7 @@ o Pushear el cambio mergeado.
 
 - Se realizaron los ejercicios introductorios de la pagina propuesta, es una buena herramienta interactiva que ayuda a acoplar lo que se plantea en el practico y mas.
 
-![](/Imagenes%20ejercicios/5.7.jpeg)
+![](/TPN1/Imagenes%20ejercicios/5.7.jpeg)
 
 - Aqui concluye el primer practico de la materia Ingenieria de Software III ✔️
 
