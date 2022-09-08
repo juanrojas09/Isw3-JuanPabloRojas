@@ -190,17 +190,21 @@ ver porque no anda esta poronga **7- Utilizar una IDE**
 
 **8- Ejemplo con nodejs**
 
-**Instalar el componente para generar aplicaciones Express** npm install express-generator -g
 
-**Crear una nueva aplicación** express --view=ejs hola-mundo
 
-![](img/Aspose.Words.bf898c18-8643-4bef-b30b-2634e7431adf.026.jpeg)
+**Crear una nueva aplicación** npx create-react-app my-app
 
-![](img/Aspose.Words.bf898c18-8643-4bef-b30b-2634e7431adf.027.png)
+cd my-app
+
+npm start
+
+
+
+
 
 **La aplicación web estará disponible en[ http://localhost:3000**](http://localhost:3000)**
 
-![](img/Aspose.Words.bf898c18-8643-4bef-b30b-2634e7431adf.028.jpeg)
+
 
 - **Analizar el manejo de paquetes y dependencias realizado por npm.**
 
@@ -215,7 +219,7 @@ entonces tenemos Repo central → autores de paquetes y consumidores de paquetes
 
 **en nuestro caso en el proyecto que se utilizo NPM tenemos lo siguiente:**
 
-![](img/Aspose.Words.bf898c18-8643-4bef-b30b-2634e7431adf.029.jpeg)
+
 
 **9- Ejemplo con python**
 
