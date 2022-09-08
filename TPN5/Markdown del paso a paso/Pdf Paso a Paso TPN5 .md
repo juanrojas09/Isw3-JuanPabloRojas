@@ -171,7 +171,7 @@ ver porque no anda esta poronga **7- Utilizar una IDE**
 
 - **Depurar la aplicación**
 
-**Podemos ver como debugueo la aplicacion al recorrer un array y puedo ver las variables y sus modificaciones.**
+**Podemos ver como debugueo la aplicacion al recorrer una serie de numeros y puedo ver el estado de la variable en cuestion.**
 
 ![](img/Aspose.Words.bf898c18-8643-4bef-b30b-2634e7431adf.023.jpeg)
 
