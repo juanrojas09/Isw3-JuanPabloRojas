@@ -1,10 +1,13 @@
 package sample.actuator;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 
-import org.springframework.beans.factory.annotation.Autowired;
 
+
+
+
+import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
