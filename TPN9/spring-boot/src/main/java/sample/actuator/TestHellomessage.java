@@ -8,15 +8,17 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestHellomessage extends HelloWorldServiceTestt {
-    @Autowired
-    HelloWorldServiceTestt helloWorldServiceTest;
+public class TestHellomessage  {
+
+    HelloWorldServiceTestt helloWorldServiceTest= new HelloWorldServiceTestt();
 
     @Test
-    public void testHelloMessage(){
+    public void testHolaMessage(){
 
         assertEquals("Hola Hola",helloWorldServiceTest.getHelloMessage());
+        assertEquals("Hello Hello",helloWorldServiceTest.getHelloMessage());
     }
+
 
 
 }
