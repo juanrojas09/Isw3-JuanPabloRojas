@@ -9,9 +9,10 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
-@RunWith(SpringJUnit4ClassRunner.class)
+@RunWith(SpringJUnit4ClassRunner.class) 
 @SpringBootTest(classes= SampleActuatorApplication.class)
 @WebAppConfiguration
+
 public abstract class AbstractTest {
     protected MockMvc mvc; //MockMvc es una clase de spring que nos permite hacer peticiones http
     @Autowired //
