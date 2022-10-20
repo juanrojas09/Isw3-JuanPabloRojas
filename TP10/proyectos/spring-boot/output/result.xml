@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.035" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-10-20T00:31:41" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="spring-boot" timestamp="2022-10-20T00:31:41" tests="2" file="/home/juan-pablo/Escritorio/Isw3-JuanPabloRojas/TP10/proyectos/spring-boot/spring-boot_test.js" time="0.033" failures="0">
+    <testcase name="spring-boot: Verify a successful call" time="0.022" classname="Verify a successful call">
+    </testcase>
+    <testcase name="spring-boot: Verify return value" time="0.006" classname="Verify return value">
+    </testcase>
+  </testsuite>
+</testsuites>
