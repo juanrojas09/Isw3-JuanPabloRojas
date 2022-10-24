@@ -12,7 +12,7 @@ exports.config = {
   output: './output',
   helpers: {
 		REST: {
-			endpoint: "https://fbarafani-spring-boot.herokuapp.com/",
+			endpoint: "https://juanrojas-spring-boot.herokuapp.com/",
 			onRequest: () => {
 			}
 		}
